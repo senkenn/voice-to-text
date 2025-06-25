@@ -1,3 +1,5 @@
 __pycache__
 
 *.m4a
+
+.vscode/settings.json
